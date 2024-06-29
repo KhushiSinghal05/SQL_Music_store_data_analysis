@@ -1,4 +1,4 @@
-# SQL_Music_store_data_analysis_project
+# SQL_Music_store_project
 
 Hey folks!!
 
