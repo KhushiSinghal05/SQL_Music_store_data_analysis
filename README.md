@@ -13,3 +13,4 @@ Through this project, I have honed my SQL skills. I have learned how SQL can be 
 
 ## Contents
 + Database Schema (https://github.com/khushisingha0512/SQL_Music_store_data_analysis/blob/main/schema_diagram.png)
++ Questions with Solutions https://github.com/khushisingha0512/SQL_Music_store_data_analysis/blob/main/Queries_with_solutions.sql
