@@ -7,6 +7,6 @@ The goal is to answer business questions using SQL queries.
 
 Through this project, I have honed my SQL skills. I have learned how SQL can be utilized to extract valuable insights from available data. 
 
-**Tools used**
+#**Tools used**
 
 MySQL workbench
